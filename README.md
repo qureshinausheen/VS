@@ -8,5 +8,8 @@ This project is created to learn Git, GitHub, and VS Code step by step.
 - Build strong foundations in programming
 
 
+## Status
+🚧 Learning phase – improving daily
+
 ## Author
 Nausheen
